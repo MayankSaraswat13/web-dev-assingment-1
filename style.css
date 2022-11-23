@@ -69,3 +69,7 @@ input[type="radio"]:checked{
 :root:has(#Light:checked){
     background-color: rgb(205,183,187);
 }
+
+#main-input{
+    border: 1px solid black;
+}
